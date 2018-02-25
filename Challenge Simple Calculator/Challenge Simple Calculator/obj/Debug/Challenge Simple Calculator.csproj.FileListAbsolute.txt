@@ -1,0 +1,33 @@
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\ApplicationInsights.config
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\roslyn\csc.exe
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\roslyn\vbc.exe
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\roslyn\VBCSCompiler.exe
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Challenge Simple Calculator.dll.config
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Challenge Simple Calculator.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Challenge Simple Calculator.pdb
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Microsoft.AI.Web.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Microsoft.ApplicationInsights.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Microsoft.AI.Web.xml
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Microsoft.ApplicationInsights.xml
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\obj\Debug\Challenge Simple Calculator.csprojResolveAssemblyReference.cache
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\obj\Debug\Challenge Simple Calculator.dll
+c:\Users\Alex\Documents\Visual Studio 2015\Projects\Challenge Simple Calculator\Challenge Simple Calculator\obj\Debug\Challenge Simple Calculator.pdb
