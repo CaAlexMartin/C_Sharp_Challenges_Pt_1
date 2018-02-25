@@ -32,13 +32,12 @@ namespace ChallengeForXmenBattleCount
                 {
                     smallestNumberIndex = i;
                 }
-                result = String.Format("Most Battles belongs to: {0} (Value:{1})", names[largestNumberIndex], numbers[largestNumberIndex]);
-                result += string.Format("<br />Least battles belong to: {0} (Value:{1})", names[smallestNumberIndex], numbers[smallestNumberIndex]);
+                result = String.Format("Most Battles belongs to: {0} (Value:{1})",
+                    names[largestNumberIndex], numbers[largestNumberIndex]);
+                result += String.Format("<br />Least battles belong to: {0} (Value:{1})",
+                    names[smallestNumberIndex], numbers[smallestNumberIndex]);
 
             }
-
-       
-
 
             resultLabel.Text = result;
         }
