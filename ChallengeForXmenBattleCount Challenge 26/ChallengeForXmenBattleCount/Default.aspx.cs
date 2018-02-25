@@ -24,10 +24,12 @@ namespace ChallengeForXmenBattleCount
 
             for (int i = 0; i < names.Length; i++)
             {
+                //Largets count?
                 if (numbers[i] > numbers[largestNumberIndex])
                 { 
                         largestNumberIndex = i;
                 }
+                //Smallest count?
                 if (numbers[i] < numbers[smallestNumberIndex])
                 {
                     smallestNumberIndex = i;
